@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdminApp</string>
+    <string name = "create_acct">Please Enter a valid email and password that is of at least 6 characters</string>
+</resources>
