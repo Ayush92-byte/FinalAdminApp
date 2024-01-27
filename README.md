@@ -13,3 +13,9 @@
  - # Student Message
  - This App has a screen where teacher can see the message of any students, where students post thier name, on which project they want to work on, thier roll number
  and thier interest of field.
+- # Tech Stack :
+- Firebase Authentication and Realtime Database
+- Kotlin
+- Jetpack Compose Libraries
+- # Deployed URL
+- Admin App : [View App](https://drive.google.com/file/d/1RlzWCQcT4ggIV-Bb_4Qnrl1EXka--2--/view?usp=drive_link)
